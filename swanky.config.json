@@ -19,10 +19,14 @@
     }
   ],
   "contracts": {
-    "Lottery": {
-      "name": "Lottery",
+    "lottery": {
+      "name": "lottery",
       "deployments": [],
-      "language": "ink"
+      "language": "ink",
+      "build": {
+        "timestamp": 1680352080985,
+        "artifactsPath": "artifacts/lottery/1680352080985"
+      }
     }
   },
   "networks": {
